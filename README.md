@@ -14,7 +14,7 @@ train.csv (4376 * 14)  <br>
 test.csv (1755 * 13)  <br>
 
 <h2>2. Feature Engineering</h2>
-<img width="394" alt="Image" src="https://github.com/user-attachments/assets/461090c8-cd6a-43b6-9a1c-bb607f6ed928" />
+<img width="394" alt="Image" src="https://github.com/user-attachments/assets/461090c8-cd6a-43b6-9a1c-bb607f6ed928" /> <br>
 Randomforest feature Importance 기반 중요도 높은 변수 파생변수 생성<br>
 
 <h2>3. Modeling</h2>
